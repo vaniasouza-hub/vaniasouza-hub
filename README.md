@@ -9,6 +9,7 @@ Olá, eu sou Vania!👋
 ## 🛠️ Tecnologias e Ferramentas 
 
 Aqui estão algumas das ferramentas que utilizo no meu dia a dia: 
+<br>
 <img 
     align="left" 
     alt="Python" 
