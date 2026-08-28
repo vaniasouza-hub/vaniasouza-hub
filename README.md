@@ -1,8 +1,5 @@
 Olá, eu sou Vania!👋
 
-<p align="center">
-  <img src="(https://pt.pngtree.com/freepng/cute-cartoon-girl-with-long-brown-hair-and-floral-top_21094407.html)" width="150px" alt="Meu Avatar"/>
-</p>
 
 - Estudante de Desenvolvimento de Sistemas. 💻
 - Focado em Python, HTML e CSS
