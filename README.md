@@ -7,6 +7,7 @@ Olá, eu sou Vania!👋
 ## 🛠️ Tecnologias e Ferramentas 
 
 Aqui estão algumas das ferramentas que utilizo no meu dia a dia: 🐍
+
 <a href="https://python.org" target="_blank">
   <img src="https://shields.io" alt="Python">
 </a>
@@ -17,5 +18,6 @@ Aqui estão algumas das ferramentas que utilizo no meu dia a dia: 🐍
 <a href="mailto:mvania.justino@gmail.com">
   <img src="https://shields.io" alt="Email">
 </a>
+
 
 
