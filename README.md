@@ -52,8 +52,9 @@ Olá, eu sou Vania!👋
 
 
 
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
-## 🌐 Conecte-se Comigo
+<h3 align="left"> Conecte-se Comigo!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:mvania.justino@gmail.com)
 
