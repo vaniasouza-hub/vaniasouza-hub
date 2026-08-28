@@ -8,9 +8,8 @@ Olá, eu sou Vania!👋
 
 Aqui estão algumas das ferramentas que utilizo no meu dia a dia: 🐍
 
-<img src="https://shields.io" alt="Python" />
+[![Python](https://shields.io)](https://www.python.org/)
 
 ## 🌐 Conecte-se Comigo
 
-<a href="mailto:mvania.justino@gmail.com">
-  <img src="
+[![Email](https://shields.io)](mailto:mvania.justino@gmail.com)
