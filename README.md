@@ -6,10 +6,11 @@ Olá, eu sou Vania!👋
 - Preparando-me para o mercado de tecnologia
 - Contato: mvania.justino@gmail.com
 
-## 🛠️ Tecnologias e Ferramentas 
 
-Aqui estão algumas das ferramentas que utilizo no meu dia a dia: 
-<br>
+##Aqui estão algumas das ferramentas que utilizo no meu dia a dia: <br>
+## 🛠️ Tecnologias e Ferramentas <br>
+
+
 <img 
     align="left" 
     alt="Python" 
