@@ -1,4 +1,9 @@
 Olá, eu sou Vania!👋
+
+<p align="center">
+  <img src="https://exemplo.com" width="150px" alt="Meu Avatar"/>
+</p>
+
 - Estudante de Desenvolvimento de Sistemas. 💻
 - Focado em Python, HTML e CSS
 - Preparando-me para o mercado de tecnologia
