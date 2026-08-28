@@ -55,9 +55,16 @@ Olá, eu sou Vania!👋
 
 ## 🌐 Conecte-se Comigo
 
-<a href="mailto:mvania.justino@gmail.com">
-  <img src="https://shields.io" alt="Email">
-</a>
+<img 
+    align="left" 
+    alt="gmail" 
+    title="gmail"
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://shields.io" alt="Email"
+/>
+
+
 
 
 
