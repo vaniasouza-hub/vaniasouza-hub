@@ -7,10 +7,9 @@ Olá, eu sou Vania!👋
 ## 🛠️ Tecnologias e Ferramentas 
 
 Aqui estão algumas das ferramentas que utilizo no meu dia a dia: 🐍
-
-<a href="https://python.org" target="_blank">
-  <img src="https://shields.io" alt="Python">
-</a>
+![Python](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 
 
 ## 🌐 Conecte-se Comigo
