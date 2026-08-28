@@ -50,8 +50,9 @@ Olá, eu sou Vania!👋
 <br>
 <br>
 
+ <img align="right" alt="" height="190px" src="./src/study.gif">
 
-##Onde me encontrar!
+<h3 align="left">Conecte-se comigo!</h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:mvania.justino@gmail.com) 
 
