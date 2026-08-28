@@ -50,13 +50,11 @@ Olá, eu sou Vania!👋
 <br>
 <br>
 
+https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
-<h3 align="left"> Conecte-se Comigo!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:mvania.justino@gmail.com)
+<div align="center">
+  <a href="https:///mail.google.com/mvania.justino/">
+    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vania.justino@gmail.com)
 
 
 
