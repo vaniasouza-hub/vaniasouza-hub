@@ -13,5 +13,4 @@ Aqui estão algumas das ferramentas que utilizo no meu dia a dia: 🐍
 ## 🌐 Conecte-se Comigo
 
 <a href="mailto:mvania.justino@gmail.com">
-  <img src="https://shields.io" alt="Gmail">
-</a>
+  <img src="
