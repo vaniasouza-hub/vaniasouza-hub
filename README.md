@@ -43,6 +43,9 @@ Aqui estão algumas das ferramentas que utilizo no meu dia a dia:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<br>
+<br>
+<br>
 
 
 
