@@ -4,11 +4,12 @@ Olá, eu sou Vania!👋
 - Estudante de Desenvolvimento de Sistemas. 💻
 - Focado em Python, HTML e CSS
 - Preparando-me para o mercado de tecnologia
-- Contato: mvania.justino@gmail.com
+- Contato: mvania.justino@gmail.com <br>
 
 
-##Aqui estão algumas das ferramentas que utilizo no meu dia a dia: <br>
-## 🛠️ Tecnologias e Ferramentas <br>
+##Aqui estão algumas das ferramentas que utilizo no meu dia a dia: <br><br><br>
+
+### 🤖 Linguagens e Tecnologias
 
 
 <img 
@@ -19,8 +20,6 @@ Olá, eu sou Vania!👋
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
