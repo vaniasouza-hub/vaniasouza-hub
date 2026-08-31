@@ -1,10 +1,10 @@
 Olá, eu sou Vania!👋
 
 
-- Estudante de Desenvolvimento de Sistemas. 
-- Focado em Python, HTML e CSS
-- Preparando-me para o mercado de tecnologia
-- Contato: mvania.justino@gmail.com <br><br><br><br>
+💻 Estudante de Desenvolvimento de Sistemas. 
+🐍 Focado em Python, HTML e CSS
+🚀 Preparando-me para o mercado de tecnologia
+📩 Contato: mvania.justino@gmail.com <br><br><br><br>
 
 
 
@@ -52,7 +52,7 @@ Olá, eu sou Vania!👋
 
  <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<h3 align="left">Conecte-se comigo!</h3>
+<h3 align="left"> 🌐 Conecte-se comigo!</h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:mvania.justino@gmail.com) 
 
